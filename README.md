@@ -3,7 +3,7 @@
    A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
    
 # Hosted URL :- 
- 
+ https://github.com/Rajatpati/Issue-tracker
    
 
 
@@ -14,7 +14,7 @@
 
      
 # Use the URL 
-
+https://github.com/Rajatpati/Issue-tracker
     
    
    
